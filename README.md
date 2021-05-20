@@ -1,5 +1,5 @@
 # aparecida-nutricao
-Este codigo aprendi no curso da Alura cursos online.
+Projeto que aprendi no curso da Alura cursos online.
 
 Com ele consegue-se:
 
