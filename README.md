@@ -1,5 +1,5 @@
 # Aparecida-Nutricao
-Projeto que aprendi no curso da Alura cursos online.
+Projeto que desenvolvi no curso da Alura cursos online.
 
 Com ele consegue-se:
 
