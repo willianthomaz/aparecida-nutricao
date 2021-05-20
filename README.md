@@ -1,4 +1,4 @@
-# aparecida-nutricao
+# Aparecida-Nutricao
 Projeto que aprendi no curso da Alura cursos online.
 
 Com ele consegue-se:
